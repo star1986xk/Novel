@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>保存.png</file>
+    <file>打开.png</file>
+    <file>分析.png</file>
+    <file>训练.png</file>
+    <file>蜘蛛网万圣节.png</file>
+  </qresource>
+</RCC>
